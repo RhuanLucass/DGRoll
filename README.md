@@ -1,8 +1,3 @@
-# React + Vite
+# DGROLL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é um projeto criado para a disciplina de Desenvolvimento Web II do curso de Engenharia de Computação do CEFET-MG campus Leopoldina. Consiste em um site de gerenciamento de fichas de RPG feito em Javascript e HTML. 
