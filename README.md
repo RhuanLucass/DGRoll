@@ -4,6 +4,6 @@ Este é um projeto criado para a disciplina de Desenvolvimento Web II do curso d
 
 Grupo:
 
-Davi Ferrarez
-Michael Andre
+Davi Ferrarez,
+Michael Andre,
 Rhuan Lucas
